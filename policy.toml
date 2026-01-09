@@ -5,6 +5,7 @@ includes = [
   ".vscode/extensions.json",
   ".vscode/settings.json",
   ".editorconfig",
+  ".gitignore",
   "CLAUDE.md",
 ]
-required = [".gitignore", "AGENTS.md", "LICENSE", "README.md"]
+required = ["AGENTS.md", "LICENSE", "README.md"]
